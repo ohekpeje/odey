@@ -1,4 +1,12 @@
-## Configure Windows client with pGina.
+---
+title: "Configure Windows client with pGina."
+datePublished: Tue Feb 01 2022 20:04:45 GMT+0000 (Coordinated Universal Time)
+cuid: ckz4juyvx0a91ghs1ewfb6qke
+slug: configure-windows-client-with-pgina
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1643745562441/Sh5dQa_rj.png
+tags: opensource, security, windows, ldap, pgina
+
+---
 
 pGina is a pluggable, open-source credential provider (and GINA) replacement. It allows for alternate methods of interactive user authentication and access management on machines running the Windows operating system.
 
