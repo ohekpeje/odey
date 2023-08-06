@@ -4,7 +4,7 @@ datePublished: Tue Feb 01 2022 20:02:57 GMT+0000 (Coordinated Universal Time)
 cuid: ckz4jsn5f09v7his1ff8r9etm
 slug: install-openldap-and-phpldapadmin-on-ubuntu-2004
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1643745652149/ALX1ddCVe.png
-tags: php, admin
+tags: ubuntu, php, admin, install, openldap
 
 ---
 
