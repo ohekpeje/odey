@@ -1,4 +1,12 @@
-## INSTALL OpenLDAP and phpLDAPadmin ON UBUNTU 20.04.
+---
+title: "INSTALL OpenLDAP and phpLDAPadmin on Ubuntu 20.04."
+datePublished: Tue Feb 01 2022 20:02:57 GMT+0000 (Coordinated Universal Time)
+cuid: ckz4jsn5f09v7his1ff8r9etm
+slug: install-openldap-and-phpldapadmin-on-ubuntu-2004
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1643745652149/ALX1ddCVe.png
+tags: php, admin
+
+---
 
 We will learn how to install and configure OpenLDAP Server on Ubuntu 20.04. OpenLDAP Software is an open-source Lightweight Directory Access Protocol implementation. LDAP is a simple client-server protocol used to access directory services, specifically X. 500-based directory services steps. 
 
