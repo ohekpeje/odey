@@ -1,4 +1,11 @@
-## The smart way to move your Web app resources across Regions in Azure.
+---
+title: "The smart way to move your Web app resources across Regions in Azure."
+datePublished: Mon Feb 08 2021 17:41:33 GMT+0000 (Coordinated Universal Time)
+cuid: ckkwv3uj5038sxps1h7r01ex2
+slug: the-smart-way-to-move-your-web-app-resources-across-regions-in-azure
+tags: azure, web-app, web-application, regions
+
+---
 
 Over time users of Azure web app might want to change the regions of the application from where it was deployed initially. This is due to certain factors like where most requests are made from to reduce latency.
 
