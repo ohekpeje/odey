@@ -4,7 +4,7 @@ datePublished: Mon Oct 02 2023 16:17:33 GMT+0000 (Coordinated Universal Time)
 cuid: cln93gpph00010al54juy1tx0
 slug: exploring-nmap
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696226012812/d3171644-0356-4ca7-a6fd-cc76128c9290.png
-tags: nmap, osint
+tags: nmap, cybersecurity-1, osint
 
 ---
 
