@@ -25,8 +25,6 @@ There are many different Nmap commands that can be used to perform different tas
 * **nmap -A &lt;IP address&gt;** - This command will perform a comprehensive scan on the specified IP address. This type of scan will identify open ports, services, and the operating system of the target host.
     
 
-**Example Interactive Social Media Post**
-
 **Nmap Commands: A Quick Guide**
 
 Nmap is a powerful network scanning tool that can be used for a variety of purposes, such as identifying open ports, services, and operating systems. It can also be used to identify vulnerabilities and security risks.
