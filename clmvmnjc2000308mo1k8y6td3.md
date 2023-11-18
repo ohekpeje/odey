@@ -1,8 +1,8 @@
 ---
-title: "Cybersecurity Techniques Unveiled: Your Shield in the Digital Realm"
+title: "Cybersecurity Techniques Unveiled"
 datePublished: Sat Sep 23 2023 06:05:58 GMT+0000 (Coordinated Universal Time)
 cuid: clmvmnjc2000308mo1k8y6td3
-slug: cybersecurity-techniques-unveiled-your-shield-in-the-digital-realm
+slug: cybersecurity-techniques-unveiled
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695449117389/ebb5e885-98c7-4145-bead-a8df0f187792.png
 tags: techniques, security, cybersecurity-1
 
