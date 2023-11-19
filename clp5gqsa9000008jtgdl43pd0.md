@@ -1,6 +1,6 @@
 ---
 title: "BelkaCTF #2: Drugdealer Case"
-datePublished: Thu Sep 29 2022 21:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Sat Nov 18 2023 22:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clp5gqsa9000008jtgdl43pd0
 slug: belkactf-2-drugdealer-case
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699210002790/af058a37-9034-4fdc-a32d-d46fb6b9d196.png
