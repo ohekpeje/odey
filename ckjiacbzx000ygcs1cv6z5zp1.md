@@ -3,6 +3,7 @@ title: "Azure resource providers and types."
 datePublished: Mon Jan 04 2021 08:11:48 GMT+0000 (Coordinated Universal Time)
 cuid: ckjiacbzx000ygcs1cv6z5zp1
 slug: azure-resource-providers-and-types
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700395365104/8d0caaa3-16a7-42c8-90f7-df73e52dbe04.png
 tags: azure, paas, cloud-computing, azure-app-services
 
 ---
