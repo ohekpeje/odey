@@ -3,6 +3,7 @@ title: "The smart way to move your Web app resources across Regions in Azure."
 datePublished: Mon Feb 08 2021 17:41:33 GMT+0000 (Coordinated Universal Time)
 cuid: ckkwv3uj5038sxps1h7r01ex2
 slug: the-smart-way-to-move-your-web-app-resources-across-regions-in-azure
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700395421558/d14d894a-f13b-4b88-bb05-337a3d5f0004.png
 tags: azure, web-app, web-application, regions
 
 ---
