@@ -43,7 +43,7 @@ Cybersecurity is broad, so you need to choose an area of focus:
 * **Cloud Security**: Protecting data and systems in cloud environments.
     
 
-Start with a general understanding of each area, then narrow your focus.
+Start with a general understanding of each area, then narrow your focus. To know more about some technical and non-technical roles in cybersecurity, use this [ebook](https://ohekpeje.gumroad.com/l/aqqov) as a guide.
 
 ### 3\. **Develop Technical Skills**
 
@@ -104,4 +104,4 @@ Subscribe to **security podcasts** and **newsletters** to keep your knowledge cu
 
 ### Conclusion
 
-Getting started in cybersecurity requires a combination of learning, practical experience, and certifications. Choose your path, build foundational skills, and gain hands-on experience to advance in this exciting and ever-growing field.
+Getting started in cybersecurity requires a combination of learning, practical experience, and certifications. Choose your path, build foundational skills, and gain hands-on experience to advance in this exciting and ever-growing field. This [ebook](https://ohekpeje.gumroad.com/l/aqqov) should act as a guide to learn more about cybersecurity career paths.
