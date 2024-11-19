@@ -4,7 +4,7 @@ datePublished: Sun Nov 17 2024 12:33:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm3lkvh8z000709lderasa1hn
 slug: a-quick-guide-to-getting-started-in-cybersecurity
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1731846768678/a2967dc0-d7dd-48cc-97af-17db8310241d.jpeg
-tags: beginner, cybersecurity
+tags: ebook, beginner, cybersecurity
 
 ---
 
