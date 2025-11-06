@@ -4,7 +4,7 @@ datePublished: Thu Mar 25 2021 10:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm3lkp6nk000n09mhfniedtwa
 slug: understanding-app-density-in-azure-app-service
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1731846501046/cc447d4f-41e0-440f-9409-3052d714bc39.png
-tags: azure, appservices
+tags: azure, appservices, azuretalks, azurecommunity
 
 ---
 
