@@ -4,7 +4,7 @@ datePublished: Tue Feb 16 2021 22:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm3ljsw5x000309jm9e4e2pxf
 slug: how-to-purchase-a-domain-on-azure-via-cli
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1731844664243/2cc9004b-0a6e-41c5-bb32-8342a98e4497.jpeg
-tags: azure, domain, appservices
+tags: azure, domain, appservices, azuretalks, azurecommunity
 
 ---
 
