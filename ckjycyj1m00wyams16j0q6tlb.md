@@ -4,7 +4,7 @@ datePublished: Fri Jan 15 2021 14:09:22 GMT+0000 (Coordinated Universal Time)
 cuid: ckjycyj1m00wyams16j0q6tlb
 slug: improving-availability-on-your-application-running-on-paas
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1610535723645/FTnAst7vw.jpeg
-tags: cloud, azure, paas, high-availability
+tags: cloud, azure, paas, high-availability, azuretalks, azurecommunity
 
 ---
 
