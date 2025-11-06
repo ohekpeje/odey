@@ -4,7 +4,7 @@ datePublished: Mon Feb 01 2021 14:34:08 GMT+0000 (Coordinated Universal Time)
 cuid: ckkmobupc05uta6s1fxqi70wn
 slug: how-i-deployed-my-first-wordpress-blog-on-azure
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1611654029714/b5JFJxLfb.png
-tags: wordpress, azure, mysql, databases
+tags: wordpress, azure, mysql, databases, azuretalks, azurecommunity
 
 ---
 
